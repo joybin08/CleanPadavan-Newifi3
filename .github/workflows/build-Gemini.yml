@@ -48,7 +48,7 @@ jobs:
           *)
             echo "☑️ Mode: Kernel 3.4 (Hanwckf)"
             echo "KERNEL_VER=3.4" >> $GITHUB_ENV
-            echo "REPO_URL=https://github.com/hanwckf/rt-n56u.git" >> $GITHUB_ENV
+            echo "REPO_URL=https://github.com/joybin08/rt-n56u.git" >> $GITHUB_ENV
             echo "REPO_BRANCH=master" >> $GITHUB_ENV
             echo "TARGET_PROFILE=NEWIFI3" >> $GITHUB_ENV
             ;;
